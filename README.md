@@ -1,6 +1,6 @@
 # Project Blackout Server
 
-This is a private server project for the classic FPS game, Point Blank. This repository contains the server-side source code, database scripts, and tools necessary to run a custom server.
+This is a private server project for the classic FPS game, Project Blackout. This repository contains the server-side source code, database scripts, and tools necessary to run a custom server.
 
 ## About The Project
 
